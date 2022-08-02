@@ -3,7 +3,7 @@
 
 # Mahmoud Ashraf
 
-#### Flutter Developer
+#### Flutter Developer and Data Analyst
 I’m Mahmoud Ashraf, have more than 1 year in mobile application development using  
 Flutter Platform. A highly resourceful, innovative and competent Flutter Developer with  
 extensive experience in layout, design and coding of mobile apps with high-volume and lowlatency applications to high availability and performance specifically in Flutter format.
@@ -13,6 +13,8 @@ extensive experience in layout, design and coding of mobile apps with high-volum
 * ⚡ Dart
 * 📫 Flutter
 * 😄 java
+* 📫 python
+* ⚡ sql
 
 ## Personal
 - 🔭 I’m currently working on Freelancer 
