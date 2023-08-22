@@ -5,8 +5,8 @@
 
 #### React Native Developer and Data Analyst
 I’m Mahmoud Ashraf, have more than 1 year in mobile application development using  
-Flutter Platform and React Native. A highly resourceful, innovative and competent Flutter Developer with  
-extensive experience in layout, design and coding of mobile apps with high-volume and lowlatency applications to high availability and performance specifically in Flutter format.
+Flutter Platform and React Native. A highly resourceful, innovative and competent React Native Developer with  
+extensive experience in layout, design and coding of mobile apps with high-volume and lowlatency applications to high availability and performance specifically in React Native format.
 
 ## Skills and experiance
 
