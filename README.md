@@ -4,12 +4,13 @@
 # Mahmoud Ashraf
 
 #### React Native Developer and Data Analyst
-I’m Mahmoud Ashraf, have more than 1 year in mobile application development using  
+I’m Mahmoud Ashraf, I’m currently working on Elwaha Green as a Data Analyst from june 2022 umtill Now, i have more than 1 year in mobile application development using  
 Flutter Platform and React Native. A highly resourceful, innovative and competent React Native Developer with  
 extensive experience in layout, design and coding of mobile apps with high-volume and lowlatency applications to high availability and performance specifically in React Native format.
 
 ## Skills and experiance
 
+* React 
 * React Native
 * ⚡ Dart
 * 📫 Flutter
@@ -18,7 +19,7 @@ extensive experience in layout, design and coding of mobile apps with high-volum
 * ⚡ sql
 
 ## Personal
-- 🔭 I’m currently working on Elwaha Green 
+- 🔭 I’m currently working on Elwaha Green as a Data Analyst
 - 🌱 I’m currently learning Faculty of computer and data science 
 
 
