@@ -3,24 +3,26 @@
 
 # Mahmoud Ashraf
 
-#### Data Engineer, Data Science and Software Developer
-I’m Mahmoud Ashraf, I’m currently working on Elwaha Green as a Data Analyst from june 2022 umtill Now, i have more than 1 year in mobile application development using  
-Flutter Platform and React Native. A highly resourceful, innovative and competent React Native Developer with  
-extensive experience in layout, design and coding of mobile apps with high-volume and lowlatency applications to high availability and performance specifically in React Native format.
+#### Data Engineer And BI Developer
+I’m Mahmoud Ashraf, Fresh Data Engineer and Experienced Data Analyst with a strong background in Software Developing 
+(Mobile and Web)  and Data Engineering with hands-on experience in Managing Databases, Data 
+Warehouses, Informatica Powercenter Machine Learning and Deep Learning Algorithms. 
+I thrive on tackling new challenges and diving deep into complex projects.
 
 ## Skills and experiance
 
-* React 
-* React Native
+* ⚡ SQL
+* ⚡ Informatica
+* ⚡ Python
+* ⚡ React 
+* ⚡ React Native
 * ⚡ Dart
-* 📫 Flutter
-* 😄 java
-* 📫 python
-* ⚡ sql
+* ⚡ Flutter
+* ⚡ java
 
 ## Personal
 - 🔭 I’m currently working on Elwaha Green as a Data Analyst
-- 🌱 I’m currently learning Faculty of computer and data science 
+- 🌱 I Graduated From Faculty of computer and data science 
 
 
 # Social
