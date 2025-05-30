@@ -4,9 +4,9 @@
 # Mahmoud Ashraf
 
 #### Data Engineer And BI Developer
-I’m Mahmoud Ashraf, Fresh Data Engineer and Experienced Data Analyst with a strong background in Software Developing 
+I’m Mahmoud Ashraf, BI Developer at BBI Company and Experienced Data Analyst with a strong background in Software Developing 
 (Mobile and Web)  and Data Engineering with hands-on experience in Managing Databases, Data 
-Warehouses, Informatica Powercenter Machine Learning and Deep Learning Algorithms. 
+Warehouses, Informatica Powercenter. 
 I thrive on tackling new challenges and diving deep into complex projects.
 
 ## Skills and experiance
@@ -16,12 +16,9 @@ I thrive on tackling new challenges and diving deep into complex projects.
 * ⚡ Python
 * ⚡ React 
 * ⚡ React Native
-* ⚡ Dart
-* ⚡ Flutter
-* ⚡ java
 
 ## Personal
-- 🔭 I’m currently working on Elwaha Green as a Data Analyst
+- 🔭 I’m currently working on BBI as a BI Developer
 - 🌱 I Graduated From Faculty of computer and data science 
 
 
